@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 #container{
-    margin: 0em 0em 2em  0em;
-    padding: 0em 10em 0em ;
+    margin: 0em 5em 0em  5em;
+    padding: 0em 5em 1em 5em ;
     max-width: fit-cohntent;
     border-radius: 40px;
     border: 5px solid #e2442f;
@@ -22,18 +22,18 @@ table{
 }
 td{
     border: 5px solid #da6060;
-    width: 15em;
-    height: 10em;
+    width: 10em;
+    height: 8em;
 }
 #chart{
     color:white;
-    margin: auto;
+    margin: 2em auto 0em auto;
     font-size: x-large;
     font-family: 'Roboto', sans-serif;
     text-align: center;
     width:fit-content;
     padding: 25px 40px;
     background-color: #174da3;
-    border-radius: 10px;  
+    border-radius: 100px;  
 }
 
